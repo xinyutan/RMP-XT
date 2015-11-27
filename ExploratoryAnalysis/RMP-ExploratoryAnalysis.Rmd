@@ -1,0 +1,32 @@
+---
+title: "RMP - Exploratory Analysis"
+author: "Xinyu Tan"
+date: "November 17, 2015"
+output: html_document
+---
+
+This report is to explore the RMP dataset and to try to build up our understanding of the dataset. 
+
+## Basic information of the dataset
+
+```{r}
+train <- read.csv('../../Data/train.csv', header = T, na.strings = c('N/A','[]'))
+str(train)
+```
+
+```{r}
+test <- read.csv('../../Data/test.csv', header = T, na.strings = c('N/A', '[]'))
+str(test)
+```
+
+## Get a understanding of NA values
+
+I noticed that besides comments, it seems that `train$tags` also indicates strongly whether that student has a positive comments or not. I am not sure if there are much overlaps between each `tags` or there are just too much NA values, so this part is to count the NA values in each columns.
+
+```{r}
+sapply(train, function(x) sum(is.na(x)))/nrow(train)
+```
+
+```{r}
+sapply(test, function(x) sum(is.na(x)))/nrow(test)
+```
