@@ -1,0 +1,29 @@
+Psychology: Educational Psychology, Psychology, Rehabilitation Psychology
+Literature: Asian Languages & Literatures, Foreign Languages & Literature, East Asian Lang. & Literature, Classical Studies, Literature, English Language & Literature, Classics
+Languages: Greek, Slavic Languages, Persian, German & Scandinavian, Latin, Spanish & Portuguese, Portuguese, Arabic, French & Italian, Korean, Hebrew, Italian, Chinese, Asian & Near Eastern Languages, Linguistics, Spanish, Japanese, Languages, French, Russian, Foreign Languages, German
+Communication: Speech & Hearing Sciences, Rhetoric, Writing Studies, Communication Studies, Speech/Language/Hearing Sci., Sign Language, Journalism, Communication, Writing, Communication Disorders
+Sociology: Near Eastern Studies, African-American Studies, Chicano Studies, Gender_Women_and Sex Studies, Family Social Science, Home & Family Studies, Child & Family Studies, African Studies, Asian Studies, East Asian Studies, Ethnic Studies, Women's Studies, Human Development, Social Work, Family Studies, Social Science, Sociology, Family & Consumer Science, Marriage Family & Human Dev, School of Family Life
+Anthropology: Cultural Studies, Scandinavian, Anthropology
+English: English
+Philosophy: Philosophy 
+Health Science: Public Health, Allied Health, Child Development, Health & Human Performance, Kinesiology, Health Science, Medicine, Nursing, Pharmacy
+Humanities: Education & Human Ecology, Human Ecology, Comparative Studies, Humanities
+Political Science: Public Administration, Public Policy, Public Affairs, Political Science, International Studies
+History: Natural History, History
+Science: Library Science, Materials Science, Animal Science, Military Science, Exercise Science, Science, Geography, Geology, Physical Sciences, Exercise & Sport Science
+Music: Music
+Economics: Agricultural Economics, Economics
+Chemistry: Chemistry
+Biology: Neuroscience, Biochemistry, Anatomy, Biological Sciences, Genetics, Cell Biology & Dev., Oncology, Genetics, Zoology, Life Science, Biology, Physiology, Microbiology, Molecular Biosciences
+Physics: Physics & Astronomy, Astronomy, Physics
+Mathmatics: Mathematics, Statistics
+Agriculture and Food Sciences: Agricultural Engineering, Food Science, Food Science & Nutrition, Nutrition, Agriculture, Nutrition & Food Science, Nutrition  Food Science
+Business: Human Resource Management, Hospitality, Hospitality Management, Administration, Sports Management, Human Resources, Organizational Leadership, Business Management, Consumer Science, Marketing, Organizational Ldrshp  Strat, Management, Business Administration, Business, Finance, 
+Arts: Textiles & Clothing, Theatre Arts & Dance, Graphic Arts, Architecture, Art & Art History, Theatre & Media Arts, Theater, Fine Arts, Interior Design, Art, Film, Dance, Art History, Visual Arts
+Education: Art Education, Curriculum & Instruction, Academic Services, Education, Educational Leadership, Elementary Education, Physical Ed, Secondary Education, Early Childhood Education, Student Services, Mathematics Education, Physical Education, Health & Physical Education
+Accounting: Accounting, 
+Computer Science: Electrical & Comp. Engineering, Information Decision Sciences, Computer Information Technology, Mathematical and Computer Sci., Computer Science, Information Systems, Information Technology
+Engineering: Transportation & Logistics, Aviation, Aerospace Engineering, Industrial Engineering, Engineering Graphics Tech., Aerospace Eng. & Mechanics, Automotive Technology, Biomedical Engineering, Design, Environmental Studies, Aerospace Studies, Technology, Industrial Design, Electrical Engineering, Civil Engineering, Engineering, Chemical Engineering, Mechanical Engineering
+Religion: Center for Spiritual Health, Religious Studies, Theology, Religion, Church History, Ancient Scripture
+Other: Sports, Natural Resources, Environ. & Natural Resources, General Studies, Career Development, Online Learning, Career & College Prep, Horticulture, Honors, Recreation, Not Specified, University Studies
+Law: Law, Criminal Justice
